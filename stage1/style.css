@@ -5,7 +5,7 @@ header{
 }
 
 main{
-    background-color: blue;
+ 
     padding: 20px 20px;
     margin: 0px auto;
 }
@@ -16,7 +16,12 @@ footer{
     margin: 0px auto;
 }
 
-body{
-   
-    margin: 0px;
-}
+
+input, select {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: red;
+  }
+  input:focus {
+    border-color: green
+  }
