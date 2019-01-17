@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(229, 243, 102);
+    padding: 20px 20px;
+    margin: 0px auto;
+}
+
+main{
+    background-color: blue;
+    padding: 20px 20px;
+    margin: 0px auto;
+}
+
+footer{
+    background-color: blue;
+    padding: 20px 20px;
+    margin: 0px auto;
+}
+
+body{
+   
+    margin: 0px;
+}
